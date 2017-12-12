@@ -6,10 +6,10 @@ Clicking on one of these results in opening the youtube trailer of the correspon
 ## Setup and Usage
 
 The system should have some version of Python installed in order to be able to run the code, and a web browser that opens the website.
-For ease of use, the following files should be present in the same directory at the time of compilation: 
+For ease of use, the following files should be present in the same directory at the time of compilation:
 
-* entertainment_center.py
-* fresh_tomatoes.py
-* media.py
+* `entertainment_center.py`
+* `fresh_tomatoes.py`
+* `media.py`
 
 To open and use the website, open entertainment_center.py and run it.
