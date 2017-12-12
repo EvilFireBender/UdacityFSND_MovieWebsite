@@ -12,4 +12,4 @@ For ease of use, the following files should be present in the same directory at 
 * `fresh_tomatoes.py`
 * `media.py`
 
-To open and use the website, open entertainment_center.py and run it.
+To open and use the website, open `entertainment_center.py` and run it.
