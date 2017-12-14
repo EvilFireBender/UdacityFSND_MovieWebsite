@@ -12,4 +12,5 @@ For ease of use, the following files should be present in the same directory at 
 * `fresh_tomatoes.py`
 * `media.py`
 
-To open and use the website, open `entertainment_center.py` and run it.
+To open and use the website, open `entertainment_center.py` using an IDE or the default python shell, and run it.
+Once open the website should display all movies mentioned in the code, and clicking on one of them should play the corresponding trailer.
